@@ -1,4 +1,4 @@
-# ShockingRotom June 2021
+# Lucas Weber June 2021
 ## PythonSnakeReversed
 ###### Snake game playable as the apple against the AI snake written in Python
 
